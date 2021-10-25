@@ -1,4 +1,14 @@
 @charset "utf-8";
+#doanvan1 {
+	font-weight:bold;
+	font-size:20px;
+	color:greenyellow;
+}
+#doanvan2 {
+	font-weight:nomal;
+	font-size:40px;
+	text-decoration:underlike;
+}
 /* CSS Document */
 
 
